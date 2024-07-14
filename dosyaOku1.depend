@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1720736292 source:c:\users\eren yurtaslan\codeblocks\denemec\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1720922362 source:c:\users\eren yurtaslan\codeblocks\dosyaoku1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
